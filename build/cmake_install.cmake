@@ -1,4 +1,4 @@
-# Install script for directory: /home/josep/Dropbox/00.josep/00.Màster Robòtica 2018-2019/02.Sistemes de Percepció/Exercicis/webcam_point_features
+# Install script for directory: /home/josep/Dropbox/00.Màster Robòtica 2018-2019/02.Sistemes de Percepció/Exercicis/webcam_point_features
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/josep/Dropbox/00.josep/00.Màster Robòtica 2018-2019/02.Sistemes de Percepció/Exercicis/webcam_point_features/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/josep/Dropbox/00.Màster Robòtica 2018-2019/02.Sistemes de Percepció/Exercicis/webcam_point_features/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

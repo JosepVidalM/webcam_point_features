@@ -6,13 +6,13 @@
 
 #IncludeRegexTransform: 
 
-/home/josep/Dropbox/00.josep/00.Màster Robòtica 2018-2019/02.Sistemes de Percepció/Exercicis/webcam_point_features/src/point_features.cpp
+/home/josep/Dropbox/00.Màster Robòtica 2018-2019/02.Sistemes de Percepció/Exercicis/webcam_point_features/src/point_features.cpp
 opencv2/opencv.hpp
-/home/josep/Dropbox/00.josep/00.Màster Robòtica 2018-2019/02.Sistemes de Percepció/Exercicis/webcam_point_features/src/opencv2/opencv.hpp
+/home/josep/Dropbox/00.Màster Robòtica 2018-2019/02.Sistemes de Percepció/Exercicis/webcam_point_features/src/opencv2/opencv.hpp
 opencv2/core.hpp
-/home/josep/Dropbox/00.josep/00.Màster Robòtica 2018-2019/02.Sistemes de Percepció/Exercicis/webcam_point_features/src/opencv2/core.hpp
+/home/josep/Dropbox/00.Màster Robòtica 2018-2019/02.Sistemes de Percepció/Exercicis/webcam_point_features/src/opencv2/core.hpp
 opencv2/features2d.hpp
-/home/josep/Dropbox/00.josep/00.Màster Robòtica 2018-2019/02.Sistemes de Percepció/Exercicis/webcam_point_features/src/opencv2/features2d.hpp
+/home/josep/Dropbox/00.Màster Robòtica 2018-2019/02.Sistemes de Percepció/Exercicis/webcam_point_features/src/opencv2/features2d.hpp
 iostream
 -
 cstdlib

@@ -10,7 +10,7 @@
 #include <vector>
 
 //consts
-const unsigned int MIN_NUM_FEATURES = 900; //minimum number of point fetaures
+const unsigned int MIN_NUM_FEATURES = 1900; //minimum number of point fetaures
 //comentar sense sentit
 int main(int argc, char *argv[])
 {
